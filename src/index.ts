@@ -10,7 +10,6 @@ const getSQSClient = () => {
   });
 };
 
-// Lambda function template to purge DLQ
 export const handler: AWSLambda.Handler = async (event, context) => {
   const logger = new Logger(event, context);
   const config = getConfig();

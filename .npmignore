@@ -1,5 +1,4 @@
 *.js.zip
-dist
 examples/main.tf
 examples/.bin
 examples/.terraform*
@@ -10,4 +9,4 @@ examples/*.tfstate.backup
 .idea
 coverage
 node_modules
-aws-sqs-purge-queue-lambda-recipe-*.tgz
+src
