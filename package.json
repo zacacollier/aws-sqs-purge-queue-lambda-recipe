@@ -1,6 +1,6 @@
 {
   "name": "aws-sqs-purge-queue-lambda-recipe",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Terraform module to create a Lambda for purging an SQS queue",
   "main": "index.js",
   "engines": {
