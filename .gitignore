@@ -1,0 +1,12 @@
+*.js.zip
+dist
+examples/main.tf
+examples/.bin
+examples/.terraform*
+examples/*.zip
+examples/*.tfstate
+examples/*.tfstate.backup
+.DS_Store
+.idea
+coverage
+node_modules

@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`handler error handled 1`] = `
+[
+  [
+    {
+      "QueueUrl": "QUEUE_URL",
+    },
+  ],
+  [
+    {
+      "QueueUrl": "QUEUE_URL",
+    },
+  ],
+]
+`;
+
+exports[`handler happy path 1`] = `
+[
+  [
+    {
+      "QueueUrl": "QUEUE_URL",
+    },
+  ],
+]
+`;
